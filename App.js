@@ -7,8 +7,8 @@ import * as TaskManager from 'expo-task-manager';
 const FENCING_TASK = 'fencergeo';
 const regions = [
   {
-    latitude: 23.23, // degrees
-    longitude: 23.32,
+    latitude: 22.757865, // degrees
+    longitude: 86.210025,
     radius: 30, // meters
   },
 ];
